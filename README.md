@@ -1,6 +1,9 @@
 # Sistemas Inteligentes
 
+# Comandos
 
+- Instalar dependencias: ```pip install -r requirements.txt```
+- Iniciar proyecto: ```py src/app.py```
 ## Integrantes Y Roles:
 
 1. Santiago Cardona Arboleda - ```Product Owner```
