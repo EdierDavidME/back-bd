@@ -16,5 +16,6 @@
 
 ## Front-end: https://github.com/T-WhiteCode09/front-pyman-react
 
-
+# Ejecutar proyecto
+- Comando ```python src/app.py```
 &copy; 2022
